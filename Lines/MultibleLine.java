@@ -13,7 +13,7 @@ public class MultibleLine extends Applet{
 
 		
 	}
-	private int x1,x2,y1,y2;
+	public int x1,x2,y1,y2;
 	private Vector<Coord> vec = new Vector<Coord>();
 	//Point a;
 	//Point b;

@@ -1,0 +1,2 @@
+Create an applet that allows the user to draw
+one line by dragging the mouse on the applet.

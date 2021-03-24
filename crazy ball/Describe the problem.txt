@@ -1,0 +1,2 @@
+Create an applet that displays ball which moves
+randomly on this applet.

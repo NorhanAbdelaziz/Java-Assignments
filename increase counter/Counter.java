@@ -10,7 +10,7 @@ public class Counter  extends Applet  {
    
    public void init() {
    btnInc = new Button("+");
-   btnDec = new Button("□");
+   btnDec = new Button("-");
    IncListener Listener = new IncListener();
    DecListener DListener = new DecListener();
    btnInc.addActionListener (Listener);

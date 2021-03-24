@@ -1,0 +1,10 @@
+Develop an application that consists of:
+– Geoshape parent class
+– Circle, Rectangle & Triangle classes that inherit from
+Geoshape. Each of them has its own constructors,
+setters & getters and calcArea methods.
+– Main class that consists of
+• sumArea( ) method that returns the sum of areas of any 3
+shapes.
+• main( ) method in which you will create the objects and pass
+them to the sumArea( ) to get their sum of areas and print it.

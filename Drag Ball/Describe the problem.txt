@@ -1,0 +1,2 @@
+• Create an applet that draws an oval which the
+user can drag around the applet.

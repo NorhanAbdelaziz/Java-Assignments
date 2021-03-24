@@ -1,0 +1,3 @@
+Create an applet that makes use of the Graphics class
+drawing methods.
+Lamp Drawing
