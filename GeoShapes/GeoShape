@@ -1,0 +1,41 @@
+abstract class GeoShape {
+protected int dim1;
+public float calcArea() {return 0f}
+public GeoShape(int dim1){
+this.dim1 = dim2;
+}
+public void setD (int d){
+dim1 = d
+}
+public int getD (int d) {
+dim1 = d
+}
+}
+
+class Circle extends Geoshap{
+public float calcArea() {
+return 3.141592653589793238 * dim * dim
+}
+}
+
+class Triangle extends GeoShape{
+int height;
+public float calcArea() {
+return 0.5f * dim * height;
+}
+}
+
+class Rectangle extends GeoShape{
+int dim2;
+public float calcArea() {
+return dim1 * dim2; 
+}
+}
+
+class Main {
+public static float sumArea (Geoshape s1, GeoShape s2, GeoShape s3){
+return s1.calcArea + s2.calcArea + s3.calcArea
+}
+public static void main(String[] args) {
+System.out.println(sumArea(s1,s2,s3)
+}}
